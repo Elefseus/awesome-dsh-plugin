@@ -2,5 +2,5 @@ url: https://github.com/Elefseus/dsh-default-workspace
 name: Elefseus/dsh-default-workspace
 category: session
 description:
-  en: 'Inspects, repairs, and relocates the default workspace from inside a running host: rewrites the workspace record without a restart, moves stored session logs together with their header cwd, and re-frames logs whose first frame is not exactly one header line. Requires the desktop host (workspaceRegistry and sessionPersistence).'
-  zh: '在运行中的宿主里查看、修复并迁移默认工作区：无需重启即可改写工作区记录，连同 header cwd 把已存会话日志一起搬走，并重帧化首帧不是恰好一行 header 的日志。需桌面版宿主（workspaceRegistry 与 sessionPersistence）。'
+  en: 'Inspects, repairs, and relocates the default workspace from inside a running host: rewrites the workspace record without a restart, offers the same three actions as a GUI panel, moves stored session logs together with their header cwd, and re-frames logs whose first frame is not exactly one header line. Requires the desktop host (workspaceRegistry and sessionPersistence).'
+  zh: '在运行中的宿主里查看、修复并迁移默认工作区：无需重启即可改写工作区记录，同一套动作也有图形面板可点，连同 header cwd 把已存会话日志一起搬走，并重帧化首帧不是恰好一行 header 的日志。需桌面版宿主（workspaceRegistry 与 sessionPersistence）。'
